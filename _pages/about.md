@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Mechanical Engineering Student at UC San Diego
+# subtitle: Mechanical Engineering Student at UC San Diego
 
 profile:
   align: right

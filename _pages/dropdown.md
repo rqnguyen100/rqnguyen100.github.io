@@ -1,12 +1,15 @@
 ---
 layout: page
-title: submenus
+title: projects
 nav: true
 dropdown: true
 children: 
-    - title: publications
-      permalink: /publications/
+    - title: club experience
+      permalink: /club_experience/
     - title: divider
-    - title: projects
-      permalink: /projects/
+    - title: personal projects 
+      permalink: /personal_projects/
+    - title: divider
+    - title: class projects
+      permalink: /class_projects/
 ---
