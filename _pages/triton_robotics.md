@@ -1,6 +1,6 @@
 ---
 layout: page
-title: triton robotics
+title: triton_robotics
 permalink: /triton_robotics/
 description: a collection of things I've done in Triton Robotics
 nav: true
@@ -9,7 +9,7 @@ horizontal: false
 ---
 
 <!-- pages/projects.md -->
-<div class="projects">
+<div class="triton_robotics">
 {%- if site.enable_project_categories and page.display_categories %}
   <!-- Display categorized projects -->
   {%- for category in page.display_categories %}
