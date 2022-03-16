@@ -4,7 +4,7 @@ title: Bearing Mount CNC
 description: a CNC program for a bearing mount
 img: assets/img/bearing_mount/Screen Shot 2022-03-16 at 9.23.44 AM.png
 importance: 4
-category: year 1
+category: class
 ---
 
 Every project has a beautiful feature showcase page.
