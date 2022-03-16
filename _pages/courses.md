@@ -2,10 +2,31 @@
 layout: page
 permalink: /courses/
 title: courses
-description: Materials for courses you taught. Replace this text with your description.
+description: courses I'm taking and have already taken.
 nav: true
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+#### Courses I'm Currently Taking
+<ul>
+    <li>Dynamics and Vibrations</li>
+    <li>Solid Mechanics I</li>
+    <li>Probability and Statistical Methods for Mechanical Engineering</li>
+</ul>
 
-Organize your courses by years, topics, or universities, however you like!
+<hr>
+
+#### Core Mechanical Engineering Courses I've Taken
+<ul>
+    <li>Statics and Introduction to Dynamics</li>
+    <li>Introduction to Engineering Graphics and Design</li>
+    <li>Introduction to Manual and CNC Machining</li>
+</ul>
+
+#### Other Core Courses I've Taken
+<ul>
+    <li>Introduction to MATLAB</li>
+    <li>Linear Circuits</li>
+    <li>Introduction to Materials Science</li>
+    <li>Calculus 1-3, Linear Algebra, & Differential Equations</li>
+    <li>Physics 1-3</li>
+</ul>
