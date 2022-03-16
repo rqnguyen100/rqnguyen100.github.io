@@ -34,10 +34,37 @@
                 </a>
               </li>
               {% if site.blog_name %}
-              <!-- Blog -->
-              <li class="nav-item {% if page.url contains 'blog' %}active{% endif %}">
-                <a class="nav-link" href="{{ '/blog/' | relative_url }}">blog
-                  {%- if page.title == "blog" -%}
+              <!-- club experience -->
+              <li class="nav-item {% if page.url contains 'club' %}active{% endif %}">
+                <a class="nav-link" href="{{ '/club_experience/' | relative_url }}">blog
+                  {%- if page.title == "club experience" -%}
+                  <span class="sr-only">(current)</span>
+                  {%- endif -%}
+                </a>
+              </li>
+              {%- endif %}
+              <!-- projects -->
+              <li class="nav-item {% if page.url contains 'projects' %}active{% endif %}">
+                <a class="nav-link" href="{{ '/projects/' | relative_url }}">blog
+                  {%- if page.title == "projects" -%}
+                  <span class="sr-only">(current)</span>
+                  {%- endif -%}
+                </a>
+              </li>
+              {%- endif %}
+              <!-- documentation -->
+              <li class="nav-item {% if page.url contains 'documentation' %}active{% endif %}">
+                <a class="nav-link" href="{{ '/documentation/' | relative_url }}">blog
+                  {%- if page.title == "documentation" -%}
+                  <span class="sr-only">(current)</span>
+                  {%- endif -%}
+                </a>
+              </li>
+              {%- endif %}
+              <!-- courses -->
+              <li class="nav-item {% if page.url contains 'courses' %}active{% endif %}">
+                <a class="nav-link" href="{{ '/courses/' | relative_url }}">blog
+                  {%- if page.title == "courses" -%}
                   <span class="sr-only">(current)</span>
                   {%- endif -%}
                 </a>
