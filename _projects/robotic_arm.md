@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Robotic Arm
-description: the fore-arm of a 2 joint robotic arm
+description: the forearm of a 2 joint robotic arm
 img: assets/img/robotic_arm/robo_arm_cad.png
 importance: 1
 category: class

@@ -4,7 +4,7 @@ title: Suspension Cover
 description: a 3D printed cover over the motor on the suspension module
 img: assets/img/suspension_cover/Screen Shot 2022-03-16 at 9.24.51 AM.png
 importance: 5
-category: year 2
+category: year_2
 ---
 
 Every project has a beautiful feature showcase page.

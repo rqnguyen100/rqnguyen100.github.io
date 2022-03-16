@@ -4,7 +4,7 @@ title: CAM Programming
 description: a fusion360 cam program to use on a CNC mill
 img: assets/img/cam/turntable.PNG
 importance: 3
-category: year 2
+category: year_2
 ---
 
 Every project has a beautiful feature showcase page.

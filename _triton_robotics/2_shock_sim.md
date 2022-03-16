@@ -4,7 +4,7 @@ title: Shock Absorber Simulation
 description: a static simulation of the shock absorbers
 img: assets/img/shock_analysis/Screen Shot 2022-03-16 at 9.24.38 AM.png
 importance: 2
-category: year 2
+category: year_2
 ---
 
 Every project has a beautiful feature showcase page.

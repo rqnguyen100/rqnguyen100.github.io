@@ -4,7 +4,7 @@ title: Electronics Mount
 description: a part that allowed electronics to mount onto a peg board
 img: assets/img/mount/7.PNG
 importance: 2
-category: year 1
+category: year_1
 ---
 
 Every project has a beautiful feature showcase page.

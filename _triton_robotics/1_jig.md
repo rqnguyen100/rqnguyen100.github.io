@@ -4,7 +4,7 @@ title: Marking Jig
 description: a jig to allow for easy center-hole marking
 img: assets/img/jig/Capture2.PNG
 importance: 3
-category: year 1
+category: year_1
 ---
 
 Every project has a beautiful feature showcase page.

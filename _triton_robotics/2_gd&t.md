@@ -4,7 +4,7 @@ title: GD&T for Square Tubing
 description: usage of position and perpendicularity tolerances for holes
 img: assets/img/gd&t/Screen Shot 2022-03-16 at 9.26.34 AM.png
 importance: 4
-category: year 2
+category: year_2
 ---
 
 Every project has a beautiful feature showcase page.

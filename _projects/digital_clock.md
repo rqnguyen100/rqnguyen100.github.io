@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Digital Clock Enclosure
-description: an enclosure for a digital clock made using arduino
+description: an enclosure for a digital clock made using an arduino
 img: assets/img/dig_clock/Screen Shot 2022-03-16 at 9.17.33 AM.png
 importance: 1
 category: personal
