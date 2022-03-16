@@ -5,7 +5,7 @@ permalink: /triton_robotics/
 description: a collection of things I've done in Triton Robotics
 nav: true
 display_categories: [year 2, year 1]
-horizontal: false
+horizontal: true
 ---
 
 <!-- pages/projects.md -->
