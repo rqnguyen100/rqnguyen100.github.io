@@ -33,7 +33,6 @@
                   {%- endif -%}
                 </a>
               </li>
-              {% if site.blog_name %}
               <!-- club experience -->
               <li class="nav-item {% if page.url contains 'club' %}active{% endif %}">
                 <a class="nav-link" href="{{ '/club_experience/' | relative_url }}">blog
@@ -51,7 +50,6 @@
                   {%- endif -%}
                 </a>
               </li>
-              {%- endif %}
               <!-- documentation -->
               <li class="nav-item {% if page.url contains 'documentation' %}active{% endif %}">
                 <a class="nav-link" href="{{ '/documentation/' | relative_url }}">blog
@@ -60,7 +58,6 @@
                   {%- endif -%}
                 </a>
               </li>
-              {%- endif %}
               <!-- courses -->
               <li class="nav-item {% if page.url contains 'courses' %}active{% endif %}">
                 <a class="nav-link" href="{{ '/courses/' | relative_url }}">blog
