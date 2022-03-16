@@ -4,7 +4,7 @@ title: Capstone Project
 description: using a chain-link mechanism to reduce with and maintain torque and power efficiency
 img: assets/img/capstone/Screen Shot 2022-03-16 at 9.35.45 AM.png
 importance: 1
-category: year_1
+category: year 1
 ---
 
 Every project has a beautiful feature showcase page.

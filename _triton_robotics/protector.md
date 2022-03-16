@@ -4,7 +4,7 @@ title: Chassis Protector
 description: a protective frame for the robot chassis 
 img: assets/img/protector/Screen Shot 2022-03-16 at 9.30.21 AM.png
 importance: 1
-category: year_2
+category: year 2
 ---
 
 Every project has a beautiful feature showcase page.
