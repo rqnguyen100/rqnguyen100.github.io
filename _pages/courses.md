@@ -2,7 +2,7 @@
 layout: page
 permalink: /courses/
 title: courses
-description: courses I'm taking and have already taken.
+# description: courses I'm taking and have already taken.
 nav: true
 ---
 
@@ -21,6 +21,8 @@ nav: true
     <li>Introduction to Engineering Graphics and Design</li>
     <li>Introduction to Manual and CNC Machining</li>
 </ul>
+
+<hr>
 
 #### Other Core Courses I've Taken
 <ul>
