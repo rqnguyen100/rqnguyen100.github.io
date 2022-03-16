@@ -35,7 +35,7 @@
               </li>
               {% if site.blog_name %}
               <!-- club experience -->
-              <li class="nav-item {% if page.url contains 'triton_robotics' %}active{% endif %}">
+              <li class="nav-item {% if page.url == 'triton_robotics' %}active{% endif %}">
                 <a class="nav-link" href="{{ '/triton_robotics/' | relative_url }}">triton_robotics
                   {%- if page.title == "triton_robotics" -%}
                   <span class="sr-only">(current)</span>
