@@ -3,7 +3,7 @@ layout: page
 title: projects
 permalink: /projects/
 description: A collection of various projects I've done
-nav: false
+nav: true
 display_categories: [personal, class]
 horizontal: false
 ---
