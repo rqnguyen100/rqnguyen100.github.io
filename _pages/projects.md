@@ -4,7 +4,7 @@ title: projects
 permalink: /projects/
 description: a collection of various projects I've done
 nav: true
-display_categories: [personal, class]
+display_categories: [class, personal]
 horizontal: false
 ---
 

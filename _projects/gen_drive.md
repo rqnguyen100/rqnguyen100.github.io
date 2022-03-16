@@ -2,7 +2,7 @@
 layout: page
 title: Geneva Drive Manufacturing
 description: the construction of the geneva drive mechanism using manual and CNC lathes and mills
-img: assets/img/gDrive/IMG_0528.HEIC
+img: assets/img/gDrive/IMG_0529.png
 importance: 3
 category: class
 ---

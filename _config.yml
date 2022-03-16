@@ -94,7 +94,7 @@ collections:
     permalink: /projects/:path/
   projects:
     output: true
-    permalink: /club_experience/:path/
+    permalink: /triton_robotics/:path/
 
 news_limit: 3
 
