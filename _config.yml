@@ -91,10 +91,10 @@ collections:
     permalink: /news/:path/
   projects:
     output: true
-    permalink: /projects/:path/
+    permalink: /triton_robotics/:path/
   projects:
     output: true
-    permalink: /triton_robotics/:path/
+    permalink: /projects/:path/
 
 news_limit: 3
 
@@ -220,7 +220,7 @@ scholar:
 # -----------------------------------------------------------------------------
 
 imagemagick:
-  enabled: false
+  enabled: true
   widths:
     - 480
     - 800
