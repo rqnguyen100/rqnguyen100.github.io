@@ -2,9 +2,9 @@
 layout: page
 title: club experience
 permalink: /club_experience/
-description: A growing collection of your cool projects.
+description: collection of things I've done in Triton Robotics
 nav: true
-display_categories: [work, fun]
+display_categories: [Year 2, Year 1]
 horizontal: false
 ---
 

@@ -1,10 +1,10 @@
 ---
 layout: page
-title: personal projects
-permalink: /personal_projects/
-description: A growing collection of your cool projects.
-nav: true
-display_categories: [work, fun]
+title: projects
+permalink: /projects/
+description: A collection of various projects I've done
+nav: false
+display_categories: [personal, class]
 horizontal: false
 ---
 
