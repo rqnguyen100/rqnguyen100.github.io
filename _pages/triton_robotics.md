@@ -1,6 +1,6 @@
 ---
 layout: page
-title: triton_robotics
+title: triton robotics
 permalink: /triton_robotics/
 description: collection of things I've done in Triton Robotics
 nav: true
