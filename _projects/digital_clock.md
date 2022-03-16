@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 1
-description: a project with a background image
-img: assets/img/12.jpg
+title: Digital Clock Enclosure
+description: an enclosure for a digital clock made using arduino
+img: assets/img/dig_clock/Screen Shot 2022-03-16 at 9.17.33 AM.png
 importance: 1
-category: work
+category: personal
 ---
 
 Every project has a beautiful feature showcase page.

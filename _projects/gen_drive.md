@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 6
-description: a project with no image
-img:
-importance: 4
-category: fun
+title: Geneva Drive Manufacturing
+description: the construction of the geneva drive mechanism using manual and CNC lathes and mills
+img: assets/img/gDrive/IMG_0528.HEIC
+importance: 3
+category: class
 ---
 
 Every project has a beautiful feature showcase page.

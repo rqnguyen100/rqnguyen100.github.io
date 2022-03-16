@@ -1,11 +1,10 @@
 ---
 layout: page
-title: project 3
-description: a project that redirects to another website
-img: assets/img/7.jpg
-redirect: https://unsplash.com
-importance: 3
-category: work
+title: Pendulum Clock
+description: a pendulum clock with an escapement mechanism
+img: assets/img/pend_clock/Screen Shot 2021-10-16 at 8.57.12 PM.png
+importance: 2
+category: class
 ---
 
 Every project has a beautiful feature showcase page.

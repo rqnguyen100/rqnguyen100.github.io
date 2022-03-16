@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 2
-description: a project with a background image
-img: assets/img/3.jpg
-importance: 2
-category: work
+title: Robotic Arm
+description: the fore-arm of a 2 joint robotic arm
+img: assets/img/robotic_arm/robo_arm_cad.png
+importance: 1
+category: class
 ---
 
 Every project has a beautiful feature showcase page.
