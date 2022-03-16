@@ -1,7 +1,7 @@
 ---
 layout: page
-title: robotics
-permalink: /robotics/
+title: triton robotics
+permalink: /triton_robotics/
 description: collection of things I've done in Triton Robotics
 nav: true
 display_categories: [Year 2, Year 1]

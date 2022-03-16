@@ -35,14 +35,13 @@
               </li>
               {% if site.blog_name %}
               <!-- club experience -->
-              <li class="nav-item {% if page.url contains 'robotics' %}active{% endif %}">
-                <a class="nav-link" href="{{ '/robotics/' | relative_url }}">triton robotics
-                  {%- if page.title == "robotics" -%}
+              <li class="nav-item {% if page.title == 'triton robotics' %}active{% endif %}">
+                <a class="nav-link" href="{{ '/triton_robotics/' | relative_url }}">triton robotics
+                  {%- if page.title == "triton robotics" -%}
                   <span class="sr-only">(current)</span>
                   {%- endif -%}
                 </a>
               </li>
-              {%- endif %}
               <!-- projects -->
               <li class="nav-item {% if page.url contains 'projects' %}active{% endif %}">
                 <a class="nav-link" href="{{ '/projects/' | relative_url }}">projects
