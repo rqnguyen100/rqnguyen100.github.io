@@ -89,7 +89,7 @@ collections:
       layout: post
     output: true
     permalink: /news/:path/
-  projects:
+  triton_robotics:
     output: true
     permalink: /triton_robotics/:path/
   projects:
