@@ -14,20 +14,20 @@ horizontal: false
   <!-- Display categorized projects -->
   {%- for category in page.display_categories %}
   <h2 class="category">{{ category }}</h2>
-  {%- assign categorized_triton_robotics = site.projects | where: "category", category -%}
-  {%- assign sorted_triton_robotics = categorized_triton_robotics | sort: "importance" %}
+  {%- assign categorized_project = site.projects | where: "category", category -%}
+  {%- assign sorted_projects = categorized_projects | sort: "importance" %}
   <!-- Generate cards for each project -->
   {% if page.horizontal -%}
   <div class="container">
     <div class="row row-cols-2">
-    {%- for project in sorted_triton_robotics -%}
+    {%- for project in sorted_projects -%}
       {% include projects_horizontal.html %}
     {%- endfor %}
     </div>
   </div>
   {%- else -%}
   <div class="grid">
-    {%- for project in sorted_triton_robotics -%}
+    {%- for project in sorted_projects -%}
       {% include projects.html %}
     {%- endfor %}
   </div>
@@ -36,19 +36,19 @@ horizontal: false
 
 {%- else -%}
 <!-- Display projects without categories -->
-  {%- assign sorted_triton_robotics = site.projects | sort: "importance" -%}
+  {%- assign sorted_projects = site.projects | sort: "importance" -%}
   <!-- Generate cards for each project -->
   {% if page.horizontal -%}
   <div class="container">
     <div class="row row-cols-2">
-    {%- for project in sorted_triton_robotics -%}
+    {%- for project in sorted_projects -%}
       {% include projects_horizontal.html %}
     {%- endfor %}
     </div>
   </div>
   {%- else -%}
   <div class="grid">
-    {%- for project in sorted_triton_robotics -%}
+    {%- for project in sorted_projects -%}
       {% include projects.html %}
     {%- endfor %}
   </div>
