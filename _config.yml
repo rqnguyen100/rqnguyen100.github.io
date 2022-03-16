@@ -89,12 +89,12 @@ collections:
       layout: post
     output: true
     permalink: /news/:path/
-  triton_robotics:
-    output: true
-    permalink: /triton_robotics/:path/
   projects:
     output: true
-    permalink: /projects/:path/
+    permalink: /triton_robotics/:path/
+  # projects:
+  #   output: true
+  #   permalink: /projects/:path/
 
 news_limit: 3
 
