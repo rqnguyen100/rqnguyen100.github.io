@@ -3,7 +3,7 @@ layout: page
 permalink: /documentation/
 title: documentation
 description: various documentation I've written or helped write
-years: [2022, 2021, 2021, 2021]
+years: [2022, 2021]
 nav: true
 ---
 <!-- _pages/publications.md -->
