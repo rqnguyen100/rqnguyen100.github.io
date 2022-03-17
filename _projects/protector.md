@@ -44,17 +44,17 @@ it.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="/assets/img/protector/Screen%20Shot%202022-03-16%20at%204.13.38%20PM.png" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="/assets/img/protector/Screen%20Shot%202022-03-16%20at%204.13.38%20PM.png" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="/assets/img/protector/Screen%20Shot%202022-03-16%20at%204.13.51%20PM.png" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="/assets/img/protector/Screen%20Shot%202022-03-16%20at%204.13.51%20PM.png" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="/assets/img/protector/Screen%20Shot%202022-03-16%20at%204.14.25%20PM.png" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="/assets/img/protector/Screen%20Shot%202022-03-16%20at%204.14.25%20PM.png" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>
 <div class="caption">
-    Versions <a href="https://docs.google.com/document/d/1xrJ-zvalJeqy2VGCPt5fMMfQgOK3FYzMUl1PhATh35g/edit">v1></a>, <a href="https://docs.google.com/document/d/10cNDNcGc_SgDf5-eTbRHNedUeqpQsbRmdCH0Vfwuqew/edit">v2></a>, and <a href="https://docs.google.com/document/d/1ZfV4wSSGqaAHkDf3C4UW9ZWk_YH9J4leOQxUtclxmbc/edit">v3></a> from left to right with documentation embedded.
+    Versions <a href="https://docs.google.com/document/d/1xrJ-zvalJeqy2VGCPt5fMMfQgOK3FYzMUl1PhATh35g/edit">v1</a>, <a href="https://docs.google.com/document/d/10cNDNcGc_SgDf5-eTbRHNedUeqpQsbRmdCH0Vfwuqew/edit">v2</a>, and <a href="https://docs.google.com/document/d/1ZfV4wSSGqaAHkDf3C4UW9ZWk_YH9J4leOQxUtclxmbc/edit">v3</a> from left to right with documentation embedded.
 </div>
 
 <hr>
@@ -66,13 +66,13 @@ calculations that can be viewed
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="/assets/img/protector/Screen%20Shot%202022-03-16%20at%204.19.45%20PM.png" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="/assets/img/protector/Screen%20Shot%202022-03-16%20at%204.19.45%20PM.png" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="/assets/img/protector/Screen%20Shot%202022-03-16%20at%204.19.32%20PM.png" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="/assets/img/protector/Screen%20Shot%202022-03-16%20at%204.19.32%20PM.png" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="/assets/img/protector/Screen%20Shot%202022-03-16%20at%204.19.45%20PM.png" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="/assets/img/protector/Screen%20Shot%202022-03-16%20at%204.19.45%20PM.png" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>
 <div class="caption">

@@ -7,74 +7,102 @@ importance: 1
 category: class
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="/assets/img/robotic_arm/robo_arm_cad.png" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="/assets/img/robotic_arm/robo_arm_phy.png" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    CAD and Physical Model
+</div>
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+<hr>
 
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+My group and I was tasked with creating a robot that was capable of picking up a 3 inch cube from various heights around the playing field and tranferring it to a central location. The rules can be viewed
+<a href="https://drive.google.com/file/u/0/d/1sFnk3V-MtX1uIdrultbhL6gNIKYzWCXJ/view">here</a>.
+
+I brainstormed some ideas for the robot. Due to the lack of controls, I
+leaned heavily towards a robotic arm.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="/assets/img/robotic_arm/Screen%20Shot%202022-03-16%20at%204.25.35%20PM.png" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="/assets/img/robotic_arm/Screen%20Shot%202022-03-16%20at%204.25.23%20PM.png" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="/assets/img/robotic_arm/Screen%20Shot%202022-03-16%20at%204.25.59%20PM.png" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="/assets/img/robotic_arm/Screen%20Shot%202022-03-16%20at%204.25.23%20PM.png" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>
 <div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
+    Concept sketches
 </div>
+
+<hr>
+
+My role was to create the upper joint of a 2 joint robotic arm. I utilized a four-bar linkage mechanism to ensure the gripper was always parallel with the floor. A proof of concept was made to justify the design with cardboard.
+
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="/assets/img/robotic_arm/Screen%20Shot%202022-03-16%20at%204.29.33%20PM.png" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="/assets/img/robotic_arm/Screen%20Shot%202022-03-16%20at%204.29.22%20PM.png" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    This image can also have a caption. It's like magic.
+    Version <a href="https://docs.google.com/document/d/1nACYF_xE9qNAJEEBiZc-eNjEdMCn1mI8GcQKQosXUHE/edit">1</a> on the left and cardboard design on the right
 </div>
 
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, *bled* for your project, and then... you reveal it's glory in the next row of images.
+<hr>
 
+The problem with this design was that I chose the wrong axis of
+rotation. I changed the axis of rotation and did calculations to
+determine the amount of torque needed that can be viewed
+<a href="https://drive.google.com/file/d/1auFzmpmmLdMOltGCYxQz5unbl5TLeu4w/view">here</a>. Our first prototype was built.
 
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="/assets/img/robotic_arm/Screen%20Shot%202022-03-16%20at%204.32.35%20PM.png" class="img-fluid rounded z-depth-1" %}
     </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="/assets/img/robotic_arm/Screen%20Shot%202022-03-16%20at%204.32.55%20PM.png" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
+    Version <a href="https://docs.google.com/document/d/1PNQWlg718dBlwFBqNWdTbRzIUyUubblIc8emvUYIfgY/edit">2</a> on the left and first complete design on the right
 </div>
 
+<hr>
 
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
+I maximized the linkage lengths and did more hand calculations <a href="https://drive.google.com/file/d/1QtNHw0eXXiMpOrzTOZtGRHfQ7iFJsgnL/view">here</a>
+to determine the amount of torque needed. Due to the sector gear, it
+could not rotate 180 degrees. I also made both the linkages have gears
+to distribute the load more evenly and added more teeth for a larger
+range of motion.
 
-{% raw %}
-```html
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="/assets/img/robotic_arm/Screen%20Shot%202022-03-16%20at%204.35.08%20PM.png" class="img-fluid rounded z-depth-1" %}
     </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="/assets/img/robotic_arm/Screen%20Shot%202022-03-16%20at%204.35.16%20PM.png" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
-```
-{% endraw %}
+<div class="caption">
+    Version <a href="https://docs.google.com/document/d/1tJsQTb9nn1cgjm6QuXs6B72u6EuHc_e5PYM-1KA_AbM/edit">3</a> on the left and version on the right version <a href="https://docs.google.com/document/d/1OOQ1Ngjj0I17WTjuLPNdzYWPhfDSPIMN8LyZ_gtX7fw/edit">4</a>.
+</div>
+
+<hr>
+
+The <a href="https://drive.google.com/file/d/1j3MobIJ5YrzyseJnw3YjOh7sXieznqwn/view">final report</a>,
+<a href="https://docs.google.com/presentation/d/1LGBYCD3udhznrWJmj9JKxS9Fy11l8CA_Yq4dBLMGI3o/present?slide=id.g8794a74c9d_0_2475">presentation</a>,
+and
+<a href="https://drive.google.com/file/d/1PdR_kffKF_dnmp_4I_LY9-6nX6uH3-pg/view">animation</a> are embedded here.
