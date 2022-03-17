@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Chassis Protector
-date: December, 2021 - March, 2022
 inline: true
 ---
 

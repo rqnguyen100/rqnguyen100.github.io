@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Robotic Arm
-date: October-December, 2022
 inline: true
 ---
 
