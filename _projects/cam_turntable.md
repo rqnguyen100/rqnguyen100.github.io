@@ -9,7 +9,7 @@ category: year 2
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="/assets/img/cam/turntable.PNG "example image" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.html path="/assets/img/cam/turntable.PNG" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="/assets/img/cam/Screen%20Shot%202022-03-16%20at%202.48.59%20PM.png" class="img-fluid rounded z-depth-1" %}
