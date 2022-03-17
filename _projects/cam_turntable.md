@@ -9,14 +9,14 @@ category: year 2
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="/assets/img/cam/turntable.PNG "example image" title="example image" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.html path="/assets/img/cam/turntable.PNG "example image" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="/assets/img/cam/Screen%20Shot%202022-03-16%20at%202.48.59%20PM.png" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="/assets/img/cam/Screen%20Shot%202022-03-16%20at%202.48.59%20PM.png" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    PCAM Program on left and Turret Base (Turntable is purple and turntable
+    CAM Program on left and Turret Base (Turntable is purple and turntable
 add-on is cyan) on right.
 </div>
 

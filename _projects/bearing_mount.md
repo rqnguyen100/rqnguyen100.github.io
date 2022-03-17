@@ -9,10 +9,10 @@ category: year 1
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="/assets/img/bearing_mount/Screen%20Shot%202022-03-16%20at%209.23.17%20AM.png" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="/assets/img/bearing_mount/Screen%20Shot%202022-03-16%20at%209.23.17%20AM.png" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="/assets/img/bearing_mount/Screen%20Shot%202022-03-16%20at%209.23.44%20AM.png" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="/assets/img/bearing_mount/Screen%20Shot%202022-03-16%20at%209.23.44%20AM.png" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
