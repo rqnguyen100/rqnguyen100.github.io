@@ -9,14 +9,14 @@ category: class
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="/assets/img/pend_clock/Screen%20Shot%202021-10-16%20at%208.57.12%20PM.png" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="/assets/img/pend_clock/200px-Anchor_escapement_animation_217x328px.gif" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="/assets/img/pend_clock/200px-Anchor_escapement_animation_217x328px.gif" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="/assets/img/pend_clock/Screen%20Shot%202021-10-16%20at%208.57.12%20PM.png" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    Physical Model
+    Animation from Wikimedia Commons and Physical Model
 </div>
 
 <hr>
