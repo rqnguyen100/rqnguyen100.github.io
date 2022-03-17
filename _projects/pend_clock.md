@@ -12,7 +12,7 @@ category: class
         {% include figure.html path="/assets/img/pend_clock/Screen%20Shot%202021-10-16%20at%208.57.12%20PM.png" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
-<div class="caption">
+<div class="caption justify-content-left">
     Physical Model
 </div>
 
