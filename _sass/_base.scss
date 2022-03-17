@@ -27,9 +27,10 @@ a, table.table a {
 }
 
 figure, img {
-  text-align: center;
-  display:block;
   max-width: 90vw;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 blockquote {
