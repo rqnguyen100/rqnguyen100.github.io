@@ -7,7 +7,7 @@ importance: 4
 category: year 2
 ---
 
-<div class="row justify-content-md-center">
+<div class="row align-items-center">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="/assets/img/gd&t/Screen%20Shot%202022-03-16%20at%209.26.34%20AM.png " class="img-fluid rounded z-depth-1" %}
     </div>
