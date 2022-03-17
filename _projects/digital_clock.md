@@ -50,7 +50,7 @@ design and only kept what was necessary.
         {% include figure.html path="/assets/img/dig_clock/old%20clock%20iso.PNG" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="/assets/img/dig_clock/old%20clock%20top.PNG" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="/assets/img/dig_clock/old%20clock%20top.PNG" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>
 <div class="caption">
@@ -84,7 +84,7 @@ viewed <a href="https://docs.google.com/document/d/1kIadXHNAuBpPpovvylge_1iNMiGN
         {% include figure.html path="/assets/img/dig_clock/Screen%20Shot%202022-03-16%20at%209.17.33%20AM.png" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="/assets/img/dig_clock/clock%20top.PNG" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="/assets/img/dig_clock/clock%20top.PNG" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>
 <div class="caption">
