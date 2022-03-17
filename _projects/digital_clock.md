@@ -27,7 +27,7 @@ arduino, breadboard and display.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="/assets/img/dig_clock/Capture.PNG" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.html path="/assets/img/dig_clock/Capture.PNG" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="/assets/img/dig_clock/Capture2.PNG" class="img-fluid rounded z-depth-1" %}

@@ -23,7 +23,7 @@ peg board was used to mount electronics.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="/assets/img/mount/Capture2.PNG" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.html path="/assets/img/mount/Capture2.PNG" class="img-fluid rounded z-depth-1"  %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="/assets/img/mount/Capture3.PNG" class="img-fluid rounded z-depth-1" %}
@@ -62,7 +62,7 @@ configurations to test different models.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="/assets/img/mount/7.PNG" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.html path="/assets/img/mount/7.PNG" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="/assets/img/mount/8.PNG" class="img-fluid rounded z-depth-1" %}
@@ -79,7 +79,7 @@ added complexity.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="/assets/img/mount/IMG_0200.png" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.html path="/assets/img/mount/IMG_0200.png" class="img-fluid rounded z-depth-1"  %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="/assets/img/mount/IMG_0198.png" class="img-fluid rounded z-depth-1" %}
