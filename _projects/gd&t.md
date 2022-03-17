@@ -7,8 +7,8 @@ importance: 4
 category: year 2
 ---
 
-<div class="row align-items-center">
-    <div class="col-sm mt-3 mt-md-0">
+<div class="row">
+    <div class="col align-self-center">
         {% include figure.html path="/assets/img/gd&t/Screen%20Shot%202022-03-16%20at%209.26.34%20AM.png " class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
@@ -18,9 +18,7 @@ category: year 2
 
 <hr>
 
-In Inches
-
-#### M3-5 Tolerances
+#### M3-5 Tolerances in Inches
 <li>Bilateral: +0.008/-0</li>
 <li>True Position: 0.0167 @ MMC</li>
 <li>Perpendicularity: 0.012</li>
