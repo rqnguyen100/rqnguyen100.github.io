@@ -16,7 +16,7 @@ category: year 2
     </div>
 </div>
 <div class="caption">
-    CAM Program on left and Turret Base (Turntable is purple and turntable
+    CAM Program on left and Turret Base (turntable is purple and turntable
     add-on is cyan) on right.
 </div>
 
