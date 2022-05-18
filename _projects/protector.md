@@ -72,7 +72,7 @@ calculations that can be viewed
         {% include figure.html path="/assets/img/protector/Screen%20Shot%202022-03-16%20at%204.19.32%20PM.png" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="/assets/img/protector/Screen%20Shot%202022-03-16%20at%204.19.45%20PM.png" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.html path="/assets/img/protector/Screen Shot 2022-03-16 at 4.19.22 PM.png" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>
 <div class="caption">
