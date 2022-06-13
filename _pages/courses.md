@@ -6,20 +6,23 @@ title: courses
 nav: true
 ---
 
-#### Courses I'm Currently Taking
+#### Courses I'm Taking Fall 2022
 <ul>
-    <li>Dynamics and Vibrations</li>
-    <li>Solid Mechanics I</li>
-    <li>Probability and Statistical Methods for Mechanical Engineering</li>
+    <li>Introduction to Autonomous Vehicles</li>
+    <li>Computational Methods in Engineering</li>
+    <li>Introduction to Mathematical Physics</li>
 </ul>
 
 <hr>
 
 #### Core Mechanical Engineering Courses I've Taken
 <ul>
+    <li>Dynamics and Vibrations</li>
+    <li>Solid Mechanics I</li>
     <li>Statics and Introduction to Dynamics</li>
     <li>Introduction to Engineering Graphics and Design</li>
     <li>Introduction to Manual and CNC Machining</li>
+    <li>Probability and Statistical Methods for Mechanical Engineering</li>
 </ul>
 
 <hr>
