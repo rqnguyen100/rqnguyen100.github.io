@@ -6,7 +6,7 @@ permalink: /
 
 profile:
   align: right
-  image: headshot.jpg
+  image: Screen Shot 2022-08-06 at 3.23.36 PM.png
   # address: >
   #   <p>555 your office number</p>
   #   <p>123 your address street</p>
