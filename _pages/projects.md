@@ -2,9 +2,9 @@
 layout: page
 title: projects
 permalink: /projects/
-description: a collection of various projects I've done
+description: a collection of engineering experience outside of clubs
 nav: true
-display_categories: [class, personal]
+display_categories: [internship, academy, class, personal]
 horizontal: false
 ---
 
