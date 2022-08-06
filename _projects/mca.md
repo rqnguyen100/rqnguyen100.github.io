@@ -9,7 +9,7 @@ category: academy
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/MCA/Screen Shot 2022-08-06 at 3.34.08 PM.png" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.html path="assets/img/MCA/Screen Shot 2022-08-06 at 3.34.08 PM.png" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/MCA/Screen Shot 2022-08-06 at 3.34.18 PM.png" class="img-fluid rounded z-depth-1" %}
@@ -55,10 +55,10 @@ Next, I made some sketches for the rover and was heavily inspired by Curiosity a
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/MCA/Screen Shot 2022-08-06 at 3.33.39 PM.png" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/MCA/Screen Shot 2022-08-06 at 3.33.39 PM.png" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/MCA/Screen Shot 2022-08-06 at 3.33.51 PM.png" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/MCA/Screen Shot 2022-08-06 at 3.33.51 PM.png" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>
 <div class="caption">
@@ -71,10 +71,10 @@ With the help of the lead systems engineering, I created a N^2 and system interf
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/MCA/Screen Shot 2022-08-06 at 3.33.10 PM.png" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/MCA/Screen Shot 2022-08-06 at 3.33.10 PM.png" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/MCA/Screen Shot 2022-08-06 at 3.34.34 PM.png" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/MCA/Screen Shot 2022-08-06 at 3.34.34 PM.png" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>
 <div class="caption">
@@ -85,7 +85,7 @@ I also worked on a Failure Mode and Effects Analysis (FMEA) chart and risk summa
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/MCA/Screen Shot 2022-08-06 at 3.38.20 PM.png" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/MCA/Screen Shot 2022-08-06 at 3.38.20 PM.png" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>
 <div class="caption">
@@ -94,7 +94,7 @@ I also worked on a Failure Mode and Effects Analysis (FMEA) chart and risk summa
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/MCA/Screen Shot 2022-08-06 at 3.38.46 PM.png" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/MCA/Screen Shot 2022-08-06 at 3.38.46 PM.png" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/MCA/Screen Shot 2022-08-06 at 3.38.56 PM.png" class="img-fluid rounded z-depth-1" %}
@@ -128,10 +128,10 @@ My largest contribution to the rover was performing a static analysis on the sus
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/MCA/Screen Shot 2022-08-06 at 3.36.42 PM.png" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/MCA/Screen Shot 2022-08-06 at 3.36.42 PM.png" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/MCA/Screen Shot 2022-08-06 at 3.36.47 PM.png" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/MCA/Screen Shot 2022-08-06 at 3.36.47 PM.png" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>
 <div class="caption">
@@ -180,3 +180,7 @@ I experimented with the mesh sizings and plotted the number of nodes to see wher
 </div>
 
 Due to the simplicity of the calculation and assumptions, the calculated value and simulated values were much different, on a scale of 100 times. This makes sense since my assumptions were conservative. When a final design of the rover was created, I also tried to import the model into Ansys and re-perform the simulation but was unable to do so due to the complexity of the model and the limitation of my license. 
+
+<hr>
+
+The end result of this project was the mission concept report and the preliminary design report detailing the entire mission. These reports can be viewed in the documentation section of the website. 

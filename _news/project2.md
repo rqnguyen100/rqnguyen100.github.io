@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Robotic Arm
+title: Balancing Robot
 inline: true
 ---
 
-<a href="https://rogernguyen.com/projects/robotic_arm/">Robotic Arm</a>
+<a href="https://rogernguyen.com/projects/balancing_robot/">Balancing Robot (current project)</a>
