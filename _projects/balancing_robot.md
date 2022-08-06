@@ -40,10 +40,10 @@ A trade study was used to determine the material for the chassis and protective 
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/balancing robot/Screen Shot 2022-08-06 at 3.30.47 PM.png" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/balancing robot/Screen Shot 2022-08-06 at 3.30.47 PM.png" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/balancing robot/Screen Shot 2022-08-06 at 3.30.56 PM.png" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/balancing robot/Screen Shot 2022-08-06 at 3.30.56 PM.png" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>
 <div class="caption">
