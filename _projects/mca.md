@@ -183,4 +183,4 @@ Due to the simplicity of the calculation and assumptions, the calculated value a
 
 <hr>
 
-The end result of this project was the mission concept report and the preliminary design report detailing the entire mission. These reports can be viewed in the documentation section of the website. 
+The end result of this project was the mission concept report and the preliminary design report detailing the entire mission. These reports and the presentation slides can be viewed in the documentation section of the website.
