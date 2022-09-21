@@ -39,18 +39,18 @@ Some sketches were drawn before proceeding to the 3d-modeling phase and a draft 
 
 <hr>
 
-A trade study was used to determine the material for the chassis and protective frame. Due to the research part of this project, extruded aluminum will be used for the chassis to determine the viability on future robots. 
+A trade study was used to determine the material for the chassis, protective frame, and chassis plating. Due to the research part of this project, extruded aluminum will be used for the chassis to determine the viability on future robots. 
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/balancing robot/Screen Shot 2022-08-06 at 3.30.47 PM.png" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/balancing robot/Screen Shot 2022-08-06 at 3.30.56 PM.png" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.html path="assets/img/balancing robot/new ts.png" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>
 <div class="caption">
-    Trade studies for chassis
+    Trade studies
 </div>
 
 <hr>
