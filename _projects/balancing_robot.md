@@ -90,3 +90,7 @@ Below is the proposed schedule for this project. A hiatus will be done for the f
         {% include figure.html path="assets/img/balancing robot/gannt.png" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
+
+<hr>
+
+December 7: Due to lack of personnel and funding, the project has been cancelled.

@@ -4,7 +4,7 @@ title: projects
 permalink: /projects/
 description: a collection of engineering experience outside of clubs
 nav: true
-display_categories: [internship, academy, class, personal]
+display_categories: [other, class, personal]
 horizontal: false
 ---
 
