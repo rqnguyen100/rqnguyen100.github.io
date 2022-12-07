@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Balancing Robot
+title: NASA L'SPACE NPWEE
 inline: true
 ---
 
-<a href="https://rogernguyen.com/projects/balancing_robot/">Balancing Robot (current project)</a>
+<a href="https://rogernguyen.com/projects/npwee/">Fiberglass Manufacturing using Lunar Regolith</a>

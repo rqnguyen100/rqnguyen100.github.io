@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Balancing Robot
-description: an ongoing R&D project about a two wheeled robot capable of vertical expansion
+description: an R&D project about a two wheeled robot capable of vertical expansion
 img: assets/img/balancing robot/iso v1.PNG
 importance: 1
 category: year 3

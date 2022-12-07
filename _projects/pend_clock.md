@@ -3,7 +3,7 @@ layout: page
 title: Pendulum Clock
 description: a pendulum clock with an escapement mechanism
 img: assets/img/pend_clock/Screen Shot 2021-10-16 at 8.57.12 PM.png
-importance: 2
+importance: 3
 category: class
 ---
 
