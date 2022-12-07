@@ -7,6 +7,10 @@ importance: 1
 category: year 3
 ---
 
+December 7: Due to lack of personnel and funding, the project has been cancelled.
+
+<hr>
+
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/balancing robot/iso v1.PNG" class="img-fluid rounded z-depth-1" %}
@@ -90,7 +94,3 @@ Below is the proposed schedule for this project. A hiatus will be done for the f
         {% include figure.html path="assets/img/balancing robot/gannt.png" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
-
-<hr>
-
-December 7: Due to lack of personnel and funding, the project has been cancelled.

@@ -18,6 +18,6 @@ category: year 2
 
 <hr>
 
-I was not sure if the shock supports would be able to survive a drop
-test of 0.2 meters. I did a static simulation
+To ensure the shock supports would be able to survive a drop
+test of 0.2 meters, I did a static simulation
 <a href="https://docs.google.com/document/d/1seafgZ23EOEybDt5anBQhqGtAhc2YGv7yWh7lwq-8BQ/edit">here</a>.

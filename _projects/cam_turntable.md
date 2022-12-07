@@ -23,8 +23,8 @@ category: year 2
 <hr>
 
 A slew bearing or turntable is being used to help the turret of a robot
-yaw. In order to mount the plates of the turret base, a "turntable
-add-on" was created. Previously, a FDM 3D printed part was used. The
-necessity of it being machine is to have tapped holes. Without tapped
-holes, it would be difficult to fasten and un-fasten nuts. A CNC Program
-was created using Fusion360's CAM software to achieve this.
+yaw. In order to mount the plates of the turret base, a "turntable add-on" was created.
+
+Previously, a FDM 3D printed part was used. The necessity of it being machine is to have tapped holes. Without tapped holes, it would be difficult to fasten and un-fasten nuts. 
+
+A CNC Program was created using Fusion360's CAM software to achieve this.

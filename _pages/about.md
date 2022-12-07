@@ -23,7 +23,7 @@ My major is Mechanical Engineering with a Specialization in Controls and Robotic
 
 My current interest is the field of Mechatronics. I'm passionate about learning about mechanical and electrical systems, as well as, programming.
 
-In my free time, I like to read, weightlift, play table tennis, and do martial arts. I'm currently a 2nd Dan black belt in Taekwondo.
+In my free time, I like to read, weightlift, bake/cook, bike, play table tennis, do martial arts. I'm currently a 2nd Dan black belt in Taekwondo.
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 

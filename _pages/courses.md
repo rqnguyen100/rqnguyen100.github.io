@@ -6,11 +6,11 @@ title: courses
 nav: true
 ---
 
-#### Courses I'm Taking Fall 2022
+#### Courses I'm Taking Winter 2022
 <ul>
-    <li>Introduction to Autonomous Vehicles</li>
-    <li>Computational Methods in Engineering</li>
-    <li>Introduction to Mathematical Physics</li>
+    <li>Signals and Systems</li>
+    <li>Thermodynamics</li>
+    <li>Fluid Mechanics I</li>
 </ul>
 
 <hr>
@@ -20,8 +20,10 @@ nav: true
     <li>Dynamics and Vibrations</li>
     <li>Solid Mechanics I</li>
     <li>Statics and Introduction to Dynamics</li>
+    <li>Introduction to Autonomous Vehicles</li>
     <li>Introduction to Engineering Graphics and Design</li>
     <li>Introduction to Manual and CNC Machining</li>
+    <li>Computational Methods in Engineering</li>
     <li>Probability and Statistical Methods for Mechanical Engineering</li>
 </ul>
 
@@ -29,6 +31,7 @@ nav: true
 
 #### Other Core Courses I've Taken
 <ul>
+    <li>Introduction to Mathematical Physics</li>
     <li>Introduction to MATLAB</li>
     <li>Linear Circuits</li>
     <li>Introduction to Materials Science</li>
