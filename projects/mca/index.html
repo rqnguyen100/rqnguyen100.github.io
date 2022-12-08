@@ -2,16 +2,16 @@
 <html lang="en">
 
   <!-- Head -->
-  <head><meta http-equiv="refresh" content="3; url=https://rqnguyen100.github.io/" />    <!-- Metadata, OpenGraph and Schema.org -->
+  <head>    <!-- Metadata, OpenGraph and Schema.org -->
     
 
     <!-- Standard metadata -->
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <title>Roger Q. Nguyen | Page not found</title>
+    <title>Roger Q. Nguyen | NASA L'SPACE Mission Concept Academy</title>
     <meta name="author" content="Roger Q. Nguyen" />
-    <meta name="description" content="Looks like there has been a mistake. Nothing exists here." />
+    <meta name="description" content="a rover capable of traversing a Martian cave and accomplishing specific science objectives" />
     <meta name="keywords" content="Roger Nguyen, University of California San Diego, mechanical engineering, robotics, academic-website, portfolio-website" />
 
 
@@ -32,7 +32,7 @@
     <link rel="shortcut icon" href="/assets/img/apple-touch-icon.png"/>
     
     <link rel="stylesheet" href="/assets/css/main.css">
-    <link rel="canonical" href="https://rqnguyen100.github.io/404.html">
+    <link rel="canonical" href="https://rqnguyen100.github.io/projects/mca/">
     
     <!-- Dark Mode -->
     
@@ -74,7 +74,7 @@
                 <a class="nav-link" href="/triton_robotics/">triton robotics</a>
               </li>
               <!-- projects -->
-              <li class="nav-item ">
+              <li class="nav-item active">
                 <a class="nav-link" href="/projects/">projects</a>
               </li>
               <!-- documentation -->
@@ -105,12 +105,34 @@
         <div class="post">
 
           <header class="post-header">
-            <h1 class="post-title">Page not found</h1>
-            <p class="post-description">Looks like there has been a mistake. Nothing exists here.</p>
+            <h1 class="post-title">NASA L'SPACE Mission Concept Academy</h1>
+            <p class="post-description">a rover capable of traversing a Martian cave and accomplishing specific science objectives</p>
           </header>
 
           <article>
-            <p>You will be redirected to the main page within 3 seconds. If not redirected, please click <a href="https://rqnguyen100.github.io/">here</a>.</p>
+            <h4 id="task"><u>Task</u></h4>
+<p>The task is to create science objectives to accomplish while searching inside a Martian cave and the proposed solution to traverse the cave and complete these science objectives.</p>
+
+<hr>
+
+<h4 id="what-i-did-as-a-mechanical-engineer"><u>What I Did as a Mechanical Engineer</u></h4>
+<li>worked on the design of the rover and how it will be implemented with other sub-systems</li>
+<li>worked on a Failure Mode and Effects Analysis (FMEA) chart and risk summary to help define what risks the rover and team would be dealing with and how to best mitigate these risks. </li>
+
+<hr>
+
+<h4 id="analysis-and-simulation"><u>Analysis and Simulation</u></h4>
+<li>hand-calculations to determine the forces in each of the linkages and determined compressive and bending failures. My assumptions were very generous and can be seen in the verification step when I did a static simulation</li>
+<li>utilized Ansys to perform a static structural analysis of the rover and used a draft model for simplicity. My boundary conditions were the following: the weight of the rover acting in the negative y-direction and fixed supports at the wheel axles. Even though the rover moves, I deemed it fine and called it a quasi-static analysis since it moves at a rate of 2 miles per hour. </li>
+<li>experimented with the mesh sizings and plotted the number of nodes to see where it converges</li>
+<li>interested in the deformation of the rover to help verify the model was performing correctly and the von-Mises stress to determine if any part of the rover would fail.</li>
+
+<hr>
+
+<h4 id="result"><u>Result</u></h4>
+<p>Due to the simplicity of the calculation and assumptions, the calculated value and simulated values were much different, on a scale of 100 times. This makes sense since my assumptions were conservative. When a final design of the rover was created, I also tried to import the model into Ansys and re-perform the simulation but was unable to do so due to the complexity of the model and the limitation of my license.</p>
+
+<p>The end result of this project was the mission concept report and the preliminary design report detailing the entire mission.</p>
 
           </article>
 
