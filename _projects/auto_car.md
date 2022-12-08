@@ -11,9 +11,12 @@ category: class
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/auto_car/Screen Shot 2022-12-07 at 11.31.03 AM.png" class="img-fluid rounded z-depth-1" %}
     </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/auto_car/Screen Shot 2022-12-07 at 9.19.34 PM.png" class="img-fluid rounded z-depth-1" %}
+    </div>
 </div>
 <div class="caption">
-    3D Model of Electronics Mounts
+    3D Model of Electronics Mounts and Wiring Diagram
 </div>
 
 <hr>
