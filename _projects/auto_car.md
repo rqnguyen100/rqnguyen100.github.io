@@ -45,4 +45,4 @@ line following method: the camera would detect the yellow centerline and follow 
     Lane detection (left) and centerline following (right)
 </div>
 
-The repository can be found here at <a href=https://github.com/rqnguyen100/MAE_148_Team8_OpenCV>https://github.com/rqnguyen100/MAE_148_Team8_OpenCV</a> and the video can be found here: <a href= https://youtu.be/YZXyHBGTka8>youtube link</a>
+The repository can be found here at <a href="https://github.com/rqnguyen100/MAE_148_Team8_OpenCV">https://github.com/rqnguyen100/MAE_148_Team8_OpenCV</a> and the video can be found here: <a href="https://youtu.be/YZXyHBGTka8">youtube link</a>
