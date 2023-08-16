@@ -2,16 +2,16 @@
 <html lang="en">
 
   <!-- Head -->
-  <head><meta http-equiv="refresh" content="3; url=https://rqnguyen100.github.io/" />    <!-- Metadata, OpenGraph and Schema.org -->
+  <head>    <!-- Metadata, OpenGraph and Schema.org -->
     
 
     <!-- Standard metadata -->
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <title>Roger Q. Nguyen | Page not found</title>
+    <title>Roger Q. Nguyen | Capstone Project</title>
     <meta name="author" content="Roger Q. Nguyen" />
-    <meta name="description" content="Looks like there has been a mistake. Nothing exists here." />
+    <meta name="description" content="using a chain-link mechanism to reduce with and maintain torque and power efficiency" />
     <meta name="keywords" content="Roger Nguyen, University of California San Diego, mechanical engineering, robotics, academic-website, portfolio-website" />
 
 
@@ -32,7 +32,7 @@
     <link rel="shortcut icon" href="/assets/img/apple-touch-icon.png"/>
     
     <link rel="stylesheet" href="/assets/css/main.css">
-    <link rel="canonical" href="https://rqnguyen100.github.io/404.html">
+    <link rel="canonical" href="https://rqnguyen100.github.io/projects/capstone/">
     
     <!-- Dark Mode -->
     
@@ -74,7 +74,7 @@
                 <a class="nav-link" href="/triton_robotics/">triton robotics</a>
               </li>
               <!-- projects -->
-              <li class="nav-item ">
+              <li class="nav-item active">
                 <a class="nav-link" href="/projects/">projects</a>
               </li>
               <!-- documentation -->
@@ -105,12 +105,105 @@
         <div class="post">
 
           <header class="post-header">
-            <h1 class="post-title">Page not found</h1>
-            <p class="post-description">Looks like there has been a mistake. Nothing exists here.</p>
+            <h1 class="post-title">Capstone Project</h1>
+            <p class="post-description">using a chain-link mechanism to reduce with and maintain torque and power efficiency</p>
           </header>
 
           <article>
-            <p>You will be redirected to the main page within 3 seconds. If not redirected, please click <a href="https://rqnguyen100.github.io/">here</a>.</p>
+            <div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        <figure>
+
+  <picture>
+<!--     <source media="(max-width: 480px)" srcset="/assets/img/capstone/Screen%20Shot%202022-03-16%20at%209.18.16%20AM-480.webp" />
+    <source media="(max-width: 800px)" srcset="/assets/img/capstone/Screen%20Shot%202022-03-16%20at%209.18.16%20AM-800.webp" />
+    <source media="(max-width: 1400px)" srcset="/assets/img/capstone/Screen%20Shot%202022-03-16%20at%209.18.16%20AM-1400.webp" />
+    -->
+
+    <!-- Fallback to the original file -->
+    <img class="img-fluid rounded z-depth-1" src="/assets/img/capstone/Screen%20Shot%202022-03-16%20at%209.18.16%20AM.png">
+
+  </picture>
+
+</figure>
+
+    </div>
+</div>
+<div class="caption">
+    Initial vs. Final Turret Design
+</div>
+
+<hr>
+
+<p>My task was to reconfigure the turret pitch mechanism. Based on the
+initial design, the current turret had a pitch mechanism that was
+direct-drive (the motor is on the left), but it wasn’t very space
+efficient since the motor was just sticking out on the side. The goal
+was to move the motor down and drive the pitch motion with a different
+mechanism.</p>
+
+<p>I started looking at the competition rules to find what constraints I
+had when designing the new mechanism and also any important information
+like the current weight of the turret and the motor information (rated
+torque, speed range, etc). Those can be viewed <a href="https://drive.google.com/file/d/1P8NQhDhZxjAlpo5Sa__fYhyWBH9V3yDT/view" target="_blank" rel="noopener noreferrer">here</a>.</p>
+
+<p>Next, I started doing calculations to understand what was the current
+torque and power needed to pitch the turret, so I could get a sense of
+how much torque and power efficiency I needed to stay within competition
+rules. I documented them
+<a href="https://docs.google.com/document/d/1e3-Q6rvSNrKmn3UQ8uPwbIetk7SKeuIns7weM6VrYak/edit" target="_blank" rel="noopener noreferrer">here</a>.</p>
+
+<p>I started brainstorming rotary to rotary motion mechanisms. I first
+looked into 4-bar parallelogram linkages since it was a simple
+mechanism, but I was worried about how structurally stable it would be
+and the possibility of the deadlocking when the linkages were parallel.
+I then looked into belt drives, chain drives, and gear drives. I made a
+pros and cons list and ultimately, I ended up deciding to use a chain
+drive because of cost and that it would save the most space. The
+distance between the driving and driven shaft was too far apart and
+would result in using many gears. The mechanism would have to be
+bidirectional so the turret could pitch forward and backward. I didn’t
+have any experience with belt drives and was worried that there would be
+too much slack and it could only rotate in one direction. Throughout the
+process, I also checked relative drive prices on MISUMI USA,
+McMaster-Carr, and Amazon since price was a huge factor in determining
+what mechanism to use. My list of pros and cons can be viewed <a href="https://drive.google.com/file/d/1F1mSBeniZmLwwmYNhdKYUykx8Le5ObbH/view" target="_blank" rel="noopener noreferrer">here</a>.</p>
+
+<hr>
+
+<h4 id="result">Result</h4>
+<li>Decreased the width of the turret by 5%</li>
+<li>Maintaining a torque and power efficiency of about 98.49% assuming
+    ideal conditions</li>
+<li>Cost of changing the drive would be about $70</li>
+
+<p>The animation can be viewed
+<a href="https://drive.google.com/file/d/1ziuBEdVXZrmUPWy-DRproZ-QHcZRSrKI/view" target="_blank" rel="noopener noreferrer">here</a>
+and the project was documented
+<a href="https://docs.google.com/document/d/1da-nxU-m3ClYu9xApHKVuSp-TNhM8wPkP42_-jZJcAE/edit" target="_blank" rel="noopener noreferrer">here</a>.</p>
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        <figure>
+
+  <picture>
+<!--     <source media="(max-width: 480px)" srcset="/assets/img/capstone/Drawing.PNG-480.webp" />
+    <source media="(max-width: 800px)" srcset="/assets/img/capstone/Drawing.PNG-800.webp" />
+    <source media="(max-width: 1400px)" srcset="/assets/img/capstone/Drawing.PNG-1400.webp" />
+    -->
+
+    <!-- Fallback to the original file -->
+    <img class="img-fluid rounded z-depth-1" src="/assets/img/capstone/Drawing.PNG">
+
+  </picture>
+
+</figure>
+
+    </div>
+</div>
+<div class="caption">
+    Drawing
+</div>
 
           </article>
 
