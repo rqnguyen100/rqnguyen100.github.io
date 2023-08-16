@@ -21,10 +21,6 @@ Hello! My name is Roger Nguyen and I'm a student from the University of Californ
 
 My major is Mechanical Engineering with a Specialization in Controls and Robotics.
 
-My current interest is the field of Mechatronics. I'm passionate about learning about mechanical and electrical systems, as well as, programming.
-
-In my free time, I like to read, weightlift, bake/cook, bike, play table tennis, do martial arts. I'm currently a 2nd Dan black belt in Taekwondo.
-
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
 Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
