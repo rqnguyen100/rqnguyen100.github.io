@@ -3,7 +3,7 @@ layout: page
 title: NASA L'SPACE Proposal Writing and Experience Evaluation
 description: research a NASA 2020 Technology Taxonomy and write proposal to improve the state of the art
 img: assets/img/nasa/nasa logo.jpeg
-importance: 1
+importance: 4
 category: other
 ---
 

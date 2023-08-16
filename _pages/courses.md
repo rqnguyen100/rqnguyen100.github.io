@@ -6,17 +6,24 @@ title: courses
 nav: true
 ---
 
-#### Courses I'm Taking Winter 2022
+#### Courses I'm Taking Fall 2023
 <ul>
-    <li>Signals and Systems</li>
-    <li>Thermodynamics</li>
-    <li>Fluid Mechanics I</li>
+    <li>Orbital Mechanics</li>
+    <li>Heat Transfer</li>
+    <li>Space Mission Analysis and Design</li>
+    <li>Computational Methods for Design</li>
 </ul>
 
 <hr>
 
 #### Core Mechanical Engineering Courses I've Taken
 <ul>
+    <li>Experimental Techniques</li>
+    <li>Linear Controls</li>
+    <li>Fluid Mechanics II</li>
+    <li>Signals and Systems</li>
+    <li>Thermodynamics</li>
+    <li>Fluid Mechanics I</li>
     <li>Dynamics and Vibrations</li>
     <li>Solid Mechanics I</li>
     <li>Statics and Introduction to Dynamics</li>
